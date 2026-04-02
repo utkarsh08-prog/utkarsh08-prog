@@ -163,20 +163,14 @@ const analyser = audioContext.createAnalyser();
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh08-prog&show_icons=true&hide_border=false&theme=dark&count_private=true)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-utkarsh08--prog-181717?style=flat-square&logo=github)](https://github.com/utkarsh08-prog)
+[![Stars Badge](https://img.shields.io/github/stars/utkarsh08-prog?style=flat-square&color=FFD700&label=Stars)](https://github.com/utkarsh08-prog)
+[![Followers Badge](https://img.shields.io/github/followers/utkarsh08-prog?style=flat-square&color=4169E1&label=Followers)](https://github.com/utkarsh08-prog)
+[![Code Quality Badge](https://img.shields.io/badge/Code%20Quality-A%2B-brightgreen?style=flat-square)](https://github.com/utkarsh08-prog)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=utkarsh08-prog&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh08-prog&theme=dark&layout=compact&hide_border=false)
-
-![GitHub Stats](https://img.shields.io/github/stars/utkarsh08-prog?style=flat-square&color=FFD700)
-![GitHub Followers](https://img.shields.io/github/followers/utkarsh08-prog?style=flat-square&color=4169E1)
-![Code Quality](https://img.shields.io/badge/Code%20Quality-A%2B-brightgreen?style=flat-square)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202026-blue?style=flat-square)
+**164 Total Contributions** | **1 Current Streak** | **JavaScript, PHP, Python, SQL**
 
 </div>
-
-**Languages Most Used**: JavaScript | PHP | Python | SQL
 
 ---
 
