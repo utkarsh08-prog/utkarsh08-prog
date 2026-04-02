@@ -163,14 +163,20 @@ const analyser = audioContext.createAnalyser();
 
 <div align="center">
 
-![GitHub Stars](https://img.shields.io/github/stars/utkarsh08-prog?style=flat-square&color=FFD700)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh08-prog&show_icons=true&hide_border=false&theme=dark&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=utkarsh08-prog&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh08-prog&theme=dark&layout=compact&hide_border=false)
+
+![GitHub Stats](https://img.shields.io/github/stars/utkarsh08-prog?style=flat-square&color=FFD700)
 ![GitHub Followers](https://img.shields.io/github/followers/utkarsh08-prog?style=flat-square&color=4169E1)
 ![Code Quality](https://img.shields.io/badge/Code%20Quality-A%2B-brightgreen?style=flat-square)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202026-blue?style=flat-square)
 
 </div>
 
-Languages most used: **JavaScript** | **PHP** | **Python** | **SQL**
+**Languages Most Used**: JavaScript | PHP | Python | SQL
 
 ---
 
