@@ -135,9 +135,10 @@ Software Engineer with **3+ years** of hands-on experience building scalable ful
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh08-prog&show_icons=true&theme=tokyonight&hide=prs&show=reviews,discussions_started)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh08-prog&theme=tokyonight&layout=compact)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)  
+![Stars](https://img.shields.io/github/stars/utkarsh08-prog?style=flat-square&color=FFD700)  
+![Followers](https://img.shields.io/github/followers/utkarsh08-prog?style=flat-square&color=4169E1)  
+![Contributions](https://img.shields.io/badge/Contributions-Open%20Source-brightgreen?style=flat-square)
 
 </div>
 
